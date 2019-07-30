@@ -1,0 +1,88 @@
+0 
+29
++cli+1
++itf+/home/yanggb/eda/synopsys/vcs/vcs/amd64/lib/vcsdp.tab
++memcbk
++vcsd
++vpi
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -fPIC -O -I/home/yanggb/eda/synopsys/vcs/vcs/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mldflags=
+-Mobjects= /home/yanggb/eda/synopsys/vcs/vcs/amd64/lib/libvirsim.so /home/yanggb/eda/synopsys/vcs/vcs/amd64/lib/liberrorinf.so /home/yanggb/eda/synopsys/vcs/vcs/amd64/lib/libsnpsmalloc.so
+-Mout=simv
+-Msaverestoreobj=/home/yanggb/eda/synopsys/vcs/vcs/amd64/lib/vcs_save_restore_new.o
+-Msyslibs=-ldl -lm
+-Mvcsaceobjs=
+-Xcbug=0x1
+-debug=1
+-full64
+-full64
+-gen_obj
+-picarchive
+-pp_used
+../../rtl/sync_fifo_from_web.v
+../tb/tb1.v
+/home/yanggb/eda/synopsys/vcs/vcs/amd64/bin/vcs1
+45
+sysc_uni_pwd=/home/yanggb/sub_module/sync_fifo/sim/run
+XDG_SESSION_COOKIE=4494e29e87fb47c562ab1d9800000021-1564403219.247892-1742565714
+XAUTHORITY=/var/run/gdm/auth-for-yanggb-NGKdXk/database
+WINDOWPATH=1
+VMR_MODE_FLAG=64
+VCS_MX_HOME_INTERNAL=1
+VCS_MODE_FLAG=64
+VCS_HOME=/home/yanggb/eda/synopsys/vcs/vcs
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH_OVERRIDE=linux
+VCS_ARCH=amd64
+USERNAME=yanggb
+UNAME=/bin/uname
+TOOL_HOME=/home/yanggb/eda/synopsys/vcs/vcs/amd64
+SYNOPSYS=/home/yanggb/eda/synopsys2016
+SSH_AUTH_SOCK=/tmp/keyring-eZWQ1g/socket.ssh
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+SNPSLMD_LICENSE_FILE=27000@centos:/home/yanggb/eda/synopsys/vcs/vcs/flexlm//license.dat
+SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/2649,unix/unix:/tmp/.ICE-unix/2649
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+QTLIB=/usr/lib64/qt-3.3/lib
+QTINC=/usr/lib64/qt-3.3/include
+QTDIR=/usr/lib64/qt-3.3
+OVA_UUM=0
+ORBIT_SOCKETDIR=/tmp/orbit-yanggb
+LESSOPEN=|/usr/bin/lesspipe.sh %s
+LC_ALL=C
+HISTCONTROL=ignoredups
+G_BROKEN_FILENAMES=1
+GTK_RC_FILES=/etc/gtk/gtkrc:/home/yanggb/.gtkrc-1.2-gnome2
+GNOME_KEYRING_SOCKET=/tmp/keyring-eZWQ1g/socket
+GNOME_KEYRING_PID=2639
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GIO_LAUNCHED_DESKTOP_FILE_PID=2991
+GIO_LAUNCHED_DESKTOP_FILE=/home/yanggb/Desktop/gnome-terminal.desktop
+GDM_LANG=en_US.UTF-8
+GDM_KEYBOARD_LAYOUT=us
+GDMSESSION=gnome
+DVE_HOME=/home/yanggb/eda/synopsys/vcs/vcs/gui/dve
+DESKTOP_SESSION=gnome
+DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-Ojry8ouQtJ,guid=8c2af79903d97ff650df74690000003f
+CVS_RSH=ssh
+COLORTERM=gnome-terminal
+0
+3
+1564418048 ../tb/tb1.v
+1564418139 ../../rtl/sync_fifo_from_web.v
+1393560725 /home/yanggb/eda/synopsys/vcs/vcs/amd64/lib/vcsdp.tab
+4
+0 
+1393562378 /home/yanggb/eda/synopsys/vcs/vcs/amd64/lib/libvirsim.so
+1393562197 /home/yanggb/eda/synopsys/vcs/vcs/amd64/lib/liberrorinf.so
+1393562054 /home/yanggb/eda/synopsys/vcs/vcs/amd64/lib/libsnpsmalloc.so
+1564418152 simv.daidir

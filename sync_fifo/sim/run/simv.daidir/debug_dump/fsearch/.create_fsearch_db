@@ -1,0 +1,9 @@
+#!/bin/sh -h 
+PYTHONHOME=/home/yanggb/eda/synopsys/vcs/vcs/etc/search/pyh
+export PYTHONHOME
+PYTHONPATH=/home/yanggb/eda/synopsys/vcs/vcs/amd64/lib/pylib27
+export PYTHONPATH
+LD_LIBRARY_PATH=/home/yanggb/eda/synopsys/vcs/vcs/amd64/lib:/home/yanggb/eda/synopsys/vcs/vcs/amd64/lib/pylib27
+export LD_LIBRARY_PATH
+/home/yanggb/eda/synopsys/vcs/vcs/amd64/bin/vcsfind_create_index.exe  -z  simv.daidir/debug_dump/fsearch/idents_IGNdsN.xml.gz  -o simv.daidir/debug_dump/fsearch/fsearch.db_tmp
+\mv simv.daidir/debug_dump/fsearch/fsearch.db_tmp simv.daidir/debug_dump/fsearch/fsearch.db
